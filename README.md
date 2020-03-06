@@ -12,6 +12,10 @@
   
 ## Usage
   * Open website: https://evening-brook-82768.herokuapp.com/
+  * Click on "New Car"
+  * Enter Make, String, Model, Year information
+  * Click on "Create Car"
+  * Click on "Edit" to change details or "Back" to view list of cars
   
 ## System Dependencies
  * System: macOs
