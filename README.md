@@ -3,6 +3,8 @@
 ### Table of Contents
   * [Objectives](#objectives)
   * [Usage](#usage)
+  * [System dependencies](#System-dependencies)
+  * [References](#references)
   
 ## Objectives
   * Introduction to Web development
@@ -11,6 +13,14 @@
 ## Usage
   * Open website: https://evening-brook-82768.herokuapp.com/
   
+## System Dependencies
+ * System: macOs
+ * Ruby version: 
+ * Heroku version: heroku/7.39.0 darwin-x64 node-v12.13.0
+ 
+## References
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
