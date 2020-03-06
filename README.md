@@ -9,7 +9,7 @@
   * Learning basics of Ruby, Git, Heroku, and rails to create a basic web application
   
 ## Usage
-  * Open website: https://evening-brook-82768.herokuapp.com/
+  * Open website: <a href="https://evening-brook-82768.herokuapp.com/" target="_blank">Hello, world!</a>
   
 This README would normally document whatever steps are necessary to get the
 application up and running.
